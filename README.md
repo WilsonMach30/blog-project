@@ -11,8 +11,9 @@ prevent media overconsumption. Built with Python, HTML, CSS, JS
 
 ## Project Status
 
-This project is still in development. Basic functionality such as signing up, logging in,  
-making blogs, and viewing blogs are completed. Animations are still in progress. 
+This project is still in development. Basic functionality such as signing up, logging in, making blogs, and viewing blogs are completed. Animations are still in progress. 
+
+Readme still needs to be updated with features and reflection
 
 Last updated: 12-20-2023
 
