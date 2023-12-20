@@ -15,8 +15,8 @@ Please refer to requirements.txt
 ## Installation and Setup Instructions ##
 
 Installation: \n
-    1. Ensure that Flask is installed on device 
-    2. Download or clone github repository
+1. Ensure that Flask is installed on device 
+2. Download or clone github repository
 
 To Run: \n
     1. On command line, input the following (Windows): 

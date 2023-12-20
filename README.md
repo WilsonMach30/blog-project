@@ -20,13 +20,12 @@ Please refer to requirements.txt
 
 ## Installation and Setup
 
-Installation: \n
-    1. Ensure that Flask is installed on device 
-    2. Download or clone github repository
+Installation:
+1. Ensure that Flask is installed on device 
+2. Download or clone github repository
 
-To Run: \n
-    1. On command line, input the following (Windows): 
-        code(cd app)
-        code(python __init__.python) 
-    2. Access the server that app runs on via command line by left-clicking link
-       (typically http://127.0.0.1:5000) 
+To Run:
+1. On command line, input the following (Windows): 
+    1. 'cd app'
+    2. 'python __init__.py' or  'python3 __init__.py'
+2. Access the server that app runs on via command line by left-clicking link (typically http://127.0.0.1:5000) 
