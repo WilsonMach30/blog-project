@@ -26,6 +26,6 @@ Installation:
 
 To Run:
 1. On command line, input the following (Windows): 
-    1. 'cd app'
-    2. 'python __init__.py' or  'python3 __init__.py'
+    1. `cd app`
+    2. `python __init__.py` or  `python3 __init__.py`
 2. Access the server that app runs on via command line by left-clicking link (typically http://127.0.0.1:5000) 
