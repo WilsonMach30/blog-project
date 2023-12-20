@@ -3,16 +3,16 @@
 A social media web application with a beach theme with animations that hopefully helps 
 prevent media overconsumption. Built with Python, HTML, CSS, JS
 
-# Project Status #
+## Project Status ##
 
 This project is still in development. Basic functionality such as signing up, logging in, 
 making blogs, and viewing blogs are completed. Animations are still in progress. 
 
-# Project Requirements #
+## Project Requirements ##
 
 Please refer to requirements.txt
 
-# Installation and Setup Instructions #
+## Installation and Setup Instructions ##
 
 Installation: 
     1. Ensure that Flask is installed on device
