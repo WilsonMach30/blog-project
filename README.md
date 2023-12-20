@@ -1,26 +1,37 @@
-# BlogSpot #
+# Project Title
 
-A social media web application with a beach theme with animations that hopefully helps
-prevent media overconsumption. Built with Python, HTML, CSS, JS \n
+Short project description or tagline.
 
-## Project Status ##
+## Table of Contents
 
-This project is still in development. Basic functionality such as signing up, logging in,  
-making blogs, and viewing blogs are completed. Animations are still in progress. \n
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-## Project Requirements ##
+## Introduction
 
-Please refer to requirements.txt \n
+Provide a brief overview of your project. Explain its purpose, main features, and any relevant background information.
 
-## Installation and Setup Instructions ##
+## Features
 
-Installation: \n
-    1. Ensure that Flask is installed on device \n
-    2. Download or clone github repository \n
+- List the key features or functionalities of your project.
+- Use bullet points or a numbered list for clarity.
 
-To Run: \n
-    1. On command line, input the following (Windows): \n
-        code(cd app) \n
-        code(python __init__.python) \n
-    2. Access the server that app runs on via command line by left-clicking link
-       (typically http://127.0.0.1:5000) \n
+## Installation
+
+Provide instructions on how to install or set up your project. Include any dependencies, prerequisites, or installation commands.
+
+## Usage
+
+Provide examples or instructions on how to use your project. Code snippets, screenshots, or demos can be helpful here.
+
+## Contributing
+
+Explain how others can contribute to your project. Include guidelines for reporting issues or submitting pull requests.
+
+## License
+
+Indicate the license under which your project is distributed. For example: MIT, Apache, GPL, etc. Include any necessary disclaimers or notices.
