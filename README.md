@@ -5,24 +5,28 @@ prevent media overconsumption. Built with Python, HTML, CSS, JS
 
 ## Table of Contents
 
-- [Project Status](#projectstatus)
-- [Project Requirements](#projectrequirements)
-- [Installation and Setup](#installationandsetup)
-- [Usage](#usage)
+- [Project Status](#project-status)
+- [Project Requirements](#project-requirements)
+- [Installation and Setup](#installation-and-setup)
 
 ## Project Status
 
-Provide a brief overview of your project. Explain its purpose, main features, and any relevant background information.
+This project is still in development. Basic functionality such as signing up, logging in,  
+making blogs, and viewing blogs are completed. Animations are still in progress. 
 
 ## Project Requirements
 
-- List the key features or functionalities of your project.
-- Use bullet points or a numbered list for clarity.
+Please refer to requirements.txt 
 
 ## Installation and Setup
 
-Provide instructions on how to install or set up your project. Include any dependencies, prerequisites, or installation commands.
+Installation: \n
+    1. Ensure that Flask is installed on device 
+    2. Download or clone github repository
 
-## Usage
-
-Provide examples or instructions on how to use your project. Code snippets, screenshots, or demos can be helpful here.
+To Run: \n
+    1. On command line, input the following (Windows): 
+        code(cd app)
+        code(python __init__.python) 
+    2. Access the server that app runs on via command line by left-clicking link
+       (typically http://127.0.0.1:5000) 
