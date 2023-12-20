@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link rel="stylesheet" href="../static/css/style.css">
+    <title> Home </title>
+</head>
+
+<body>
+    <div class="button-deck">
+        <form>
+            <button class="button first-button" formaction="/newblog">
+                New Blog
+            </button>
+        
+            <button class= "button" formaction="/logout">
+                Log out
+            </button>
+        </form>
+    </div>
+
+    {% if submission %}
+    <div class="alert alert-warning" style="text-align: center" role="alert">
+        Submission successful!
+    </div>
+    {% endif %}
+
+    Welcome {{username}}!
+
+    <div>
+        <ul>
+            {% for blog in my_blogs %}
+                <div class="blog-body">
+                    <h3> {{blog[1]}} </h3>
+                    <h6> By: {{blog[2]}} </h6>
+                    <br>
+                    <p> {{blog[3]}} </p>
+                    <br>
+                    <h6> {{blog[4]}}</h6>
+                </div>
+
+                <!-- <li> {{blog}} </li> -->
+            {% endfor %}
+        </ul>
+    </div>
+</body>
