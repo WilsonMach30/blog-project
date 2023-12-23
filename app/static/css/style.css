@@ -53,12 +53,32 @@ input[type=submit],
   background-color: #06D6A0;
 }
 
-.landing-body {
-  background-color: #FFC43D;
-}
-
 .newblog-body {
   background-color: #8ecae6;
+}
+
+.landing-body {
+  background-color: #FFB703;
+}
+
+.home-body {
+  background-color: #FFB703;
+}
+
+.center-alert {
+  width: 50%;
+  height: 50%;
+  margin: auto;
+  font-size: 30px;
+  border-radius: 10px;
+  display: grid;
+  align-items: center;
+  text-align: center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 999;
 }
 
 .blog-body {
@@ -71,6 +91,8 @@ input[type=submit],
   border-width: 2px;
   border-style: solid;
   border-color: black;
+  background-color: white;
+  z-index: 1;
 }
 
 .landing-form {

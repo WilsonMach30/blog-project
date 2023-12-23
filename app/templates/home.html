@@ -6,7 +6,7 @@
     <title> Home </title>
 </head>
 
-<body>
+<body class="home-body">
     <div class="button-deck">
         <form>
             <button class="button first-button" formaction="/newblog">
@@ -25,9 +25,7 @@
     </div>
     {% endif %}
 
-    Welcome {{username}}!
-
-    <div>
+    <div id="blogs">
         <ul>
             {% for blog in my_blogs %}
                 <div class="blog-body">
@@ -39,8 +37,9 @@
                     <h6> {{blog[4]}}</h6>
                 </div>
 
-                <!-- <li> {{blog}} </li> -->
             {% endfor %}
         </ul>
     </div>
 </body>
+
+<script src="../static/js/style.js"></script>
