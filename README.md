@@ -12,7 +12,7 @@ Designed and Coded By: Wilson Mach
 
 ## Project Screenshots
 ![alt text](./images/home.png)
-![alt text](./images/home.png)
+![alt text](./images/new_blog.png)
 
 ## Project Requirements
 
