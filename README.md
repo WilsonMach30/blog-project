@@ -37,6 +37,6 @@ To Run:
 
 This project started as a way to practice my web development skills. In particular, I wanted to practice Python, HTML, and CSS in preparation to learn JS and React. I knew I wanted a logging in feature - it seemed neccessary so that each user would be able to see and make their ownn blogs. One of the biggest hurdles was choosing a way to store the user and blog data. Initial attempts included using lists, dictionaries, and pandas to store data. However, sqlite was the clear choice due to the methods available and visability. 
 
-The firt iteration of this project is completed. Features include signing up, logging in, viewing blogs, making blogs, background color change, and alert at 30 mins. I plan for the iteration to have updated functionality. Upcoming features include capabiit to like posts, adding friends, a profile section, as well as improved timer for animation and alert. I hope to use this opportunity to gain better practice with squlite and build on my web development skills. 
+The first iteration of this project is completed. Features include signing up, logging in, viewing blogs, making blogs, background color change, and alert at 30 mins. I plan for the second iteration to have updated functionality. Upcoming features include capability to like posts and add friends, a profile section, as well as improved timer for animation and alert. I hope to use this opportunity to gain better practice with squlite and build my web development skills. 
 
 Last updated: 12-22-2023
