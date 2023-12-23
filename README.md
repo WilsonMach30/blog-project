@@ -11,7 +11,10 @@ Designed and Coded By: Wilson Mach
 - [Installation and Setup](#installation-and-setup)
 
 ## Project Screenshots
+1. Home page for blog viewing:
 ![alt text](./images/home.png)
+
+2. Page to create new blogs:
 ![alt text](./images/new_blog.png)
 
 ## Project Requirements
