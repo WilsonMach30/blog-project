@@ -11,8 +11,8 @@ Designed and Coded By: Wilson Mach
 - [Installation and Setup](#installation-and-setup)
 
 ## Project Screenshots
-![alt text](http://images/home.png)
-![alt text](http://images/new_blog.png)
+![alt text](./images/home.png)
+![alt text](./images/home.png)
 
 ## Project Requirements
 
