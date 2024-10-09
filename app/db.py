@@ -58,8 +58,8 @@ def create_new_blog(last_value, title, author, content, last_modified):
 
 def restart():
     c = db.cursor()
-    # c.execute("drop table if exists USER")
-    c.execute("drop table if exists BLOG")
+    c.execute("drop table if exists USER")
+    # c.execute("drop table if exists BLOG")
 
     db.commit()
     c.close()
